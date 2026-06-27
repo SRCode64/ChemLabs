@@ -1,0 +1,7 @@
+name: ChemLabs
+version: '${version}'
+
+main: dev.serenitycode.chemLabs.ChemLabs
+api-version: '26.1'
+
+authors: [ SerenityCode ]
